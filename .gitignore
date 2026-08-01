@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs
+*.log
+logs/
+
+# Node (future tooling: site generators, scripts, linters)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python (future tooling: prompt evaluation, scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output (future website/content builds)
+dist/
+build/
+.cache/
+
+# Temporary / scratch files
+*.tmp
+*.bak
+.tmp/
