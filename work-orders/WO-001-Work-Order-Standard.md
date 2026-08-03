@@ -12,7 +12,26 @@
 
 ---
 
-# Purpose
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Guiding Principle](#guiding-principle)
+- [Work Order Categories](#work-order-categories)
+  - [Governance Work Orders](#governance-work-orders)
+  - [Delivery Work Orders](#delivery-work-orders)
+- [Work Order Lifecycle](#work-order-lifecycle)
+- [Work Order Identifier](#work-order-identifier)
+- [Standard Work Order Structure](#standard-work-order-structure)
+- [Relationship to ACM](#relationship-to-acm)
+- [File Naming Convention](#file-naming-convention)
+- [Repository Location](#repository-location)
+- [Success Metrics](#success-metrics)
+- [Future Enhancements](#future-enhancements)
+- [Guiding Statement](#guiding-statement)
+
+---
+
+## Purpose
 
 The Work Order (WO) is the standard mechanism used within Eyuna to initiate, assign, execute, review, and approve work.
 
@@ -29,7 +48,7 @@ The Work Order ensures every deliverable is:
 
 ---
 
-# Guiding Principle
+## Guiding Principle
 
 > We do not ask AI random questions.
 
@@ -41,11 +60,11 @@ Humans own the methodology, quality, and final approval.
 
 ---
 
-# Work Order Categories
+## Work Order Categories
 
 Eyuna defines two categories of Work Orders.
 
-## Governance Work Orders
+### Governance Work Orders
 
 Governance Work Orders define how Eyuna itself operates.
 
@@ -62,7 +81,7 @@ Governance Work Orders are authored by the Eyuna methodology team and may be rev
 
 ---
 
-## Delivery Work Orders
+### Delivery Work Orders
 
 Delivery Work Orders create client-facing or implementation artifacts.
 
@@ -80,7 +99,7 @@ Delivery Work Orders are executed with AI assistance while remaining under human
 
 ---
 
-# Work Order Lifecycle
+## Work Order Lifecycle
 
 Every Work Order follows the same lifecycle.
 
@@ -108,7 +127,7 @@ A Work Order may not skip lifecycle stages.
 
 ---
 
-# Work Order Identifier
+## Work Order Identifier
 
 Work Orders use sequential numbering.
 
@@ -133,11 +152,11 @@ For Version 1.x, sequential numbering is sufficient.
 
 ---
 
-# Standard Work Order Structure
+## Standard Work Order Structure
 
 Every Work Order must contain the following sections.
 
-## 1. Header
+### 1. Header
 
 - Work Order ID
 - Title
@@ -153,7 +172,7 @@ Every Work Order must contain the following sections.
 
 ---
 
-## 2. Objective
+### 2. Objective
 
 Describe the desired outcome.
 
@@ -163,7 +182,7 @@ Example:
 
 ---
 
-## 3. Business Context
+### 3. Business Context
 
 Explain:
 
@@ -174,7 +193,7 @@ Explain:
 
 ---
 
-## 4. Background
+### 4. Background
 
 Provide all information required before work begins.
 
@@ -187,7 +206,7 @@ Include:
 
 ---
 
-## 5. Scope
+### 5. Scope
 
 Clearly define what is included.
 
@@ -202,7 +221,7 @@ Included:
 
 ---
 
-## 6. Out of Scope
+### 6. Out of Scope
 
 Clearly define what should NOT be produced.
 
@@ -216,7 +235,7 @@ Not Included:
 
 ---
 
-## 7. Inputs
+### 7. Inputs
 
 Examples include:
 
@@ -228,7 +247,7 @@ Examples include:
 
 ---
 
-## 8. Deliverables
+### 8. Deliverables
 
 List every expected output.
 
@@ -241,7 +260,7 @@ Example:
 
 ---
 
-## 9. Acceptance Criteria
+### 9. Acceptance Criteria
 
 Define measurable success.
 
@@ -254,7 +273,7 @@ Example:
 
 ---
 
-## 10. Dependencies
+### 10. Dependencies
 
 List prerequisite work.
 
@@ -266,7 +285,7 @@ Examples:
 
 ---
 
-## 11. Assigned Persona
+### 11. Assigned Persona
 
 Every Work Order is owned by a consulting role.
 
@@ -284,7 +303,7 @@ The AI tool assists with execution.
 
 ---
 
-## 12. Recommended AI Tools
+### 12. Recommended AI Tools
 
 Examples:
 
@@ -297,7 +316,7 @@ Multiple tools may collaborate on the same Work Order.
 
 ---
 
-## 13. References
+### 13. References
 
 List supporting artifacts.
 
@@ -311,7 +330,7 @@ Examples:
 
 ---
 
-## 14. Risks
+### 14. Risks
 
 Document known risks.
 
@@ -324,7 +343,7 @@ Examples:
 
 ---
 
-## 15. Review Checklist
+### 15. Review Checklist
 
 Every Work Order must answer:
 
@@ -338,7 +357,7 @@ Every Work Order must answer:
 
 ---
 
-## 16. Definition of Done
+### 16. Definition of Done
 
 A Work Order is complete only when:
 
@@ -351,19 +370,19 @@ A Work Order is complete only when:
 
 ---
 
-# Relationship to ACM
+## Relationship to ACM
 
 Every Work Order must explicitly identify the ACM phase it supports.
 
 | ACM Phase | Typical Work Orders                                |
-| --------- | -------------------------------------------------- |
-| Assess    | Discovery, Business Case, Current State Assessment |
-| Create    | Requirements, Architecture, Development, Testing   |
-| Modernize | Deployment, Monitoring, Optimization, Governance   |
+| --------- | --------------------------------------------------- |
+| Assess    | Discovery, Business Case, Current State Assessment   |
+| Create    | Requirements, Architecture, Development, Testing     |
+| Modernize | Deployment, Monitoring, Optimization, Governance     |
 
 ---
 
-# File Naming Convention
+## File Naming Convention
 
 Use the following naming convention.
 
@@ -375,7 +394,7 @@ WO-003-Document-Standard.md
 
 ---
 
-# Repository Location
+## Repository Location
 
 ```
 work-orders/
@@ -385,7 +404,7 @@ Future versions may introduce lifecycle subdirectories if operational needs just
 
 ---
 
-# Success Metrics
+## Success Metrics
 
 A successful Work Order:
 
@@ -397,7 +416,7 @@ A successful Work Order:
 
 ---
 
-# Future Enhancements
+## Future Enhancements
 
 Potential future improvements include:
 
@@ -411,7 +430,7 @@ Potential future improvements include:
 
 ---
 
-# Guiding Statement
+## Guiding Statement
 
 > Every meaningful outcome in Eyuna begins with a Work Order.
 

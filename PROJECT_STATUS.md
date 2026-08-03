@@ -2,7 +2,7 @@
 
 This is the live dashboard for Eyuna. It reflects what exists today, what is actively being worked on, and what is planned next. For the full multi-release plan, see [ROADMAP.md](ROADMAP.md).
 
-**Last updated:** 2026-08-01
+**Last updated:** 2026-08-02
 
 ## Current Version
 
@@ -10,7 +10,7 @@ This is the live dashboard for Eyuna. It reflects what exists today, what is act
 
 ## Completed
 
-None yet. The repository has just been initialized.
+- [WO-001 — Eyuna Work Order Standard](work-orders/WO-001-Work-Order-Standard.md) — the governance standard defining how all work in Eyuna is initiated, assigned, executed, reviewed, and approved.
 
 ## In Progress
 

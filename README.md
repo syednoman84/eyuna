@@ -43,6 +43,7 @@ Key principles behind the repository design:
 
 ```text
 eyuna/
+├── work-orders/           Standard mechanism for initiating, assigning, and approving all work (see WO-001)
 ├── docs/                  Foundational documentation: constitution, methodology, principles, governance, glossary
 ├── personas/              Consulting personas used across engagements
 ├── prompts/               Reusable prompt libraries

@@ -18,6 +18,7 @@ Eyuna is a consulting operating system, not an application — most contribution
 1. Read the root [README.md](README.md) to understand the project's vision and structure.
 2. Read [ROADMAP.md](ROADMAP.md) and [PROJECT_STATUS.md](PROJECT_STATUS.md) to understand what is currently in scope.
 3. Check [DECISIONS.md](DECISIONS.md) to see if a relevant decision has already been made.
+4. Per [WO-001](work-orders/WO-001-Work-Order-Standard.md), every artifact in Eyuna — documents, templates, personas, prompts, architectures, case studies, implementations, and content — begins with an approved Work Order in [`work-orders/`](work-orders/README.md). Open or reference the relevant Work Order before starting substantive work.
 
 ## What Belongs Where
 
@@ -25,6 +26,7 @@ Each top-level directory has a single, well-defined purpose, documented in its o
 
 | Directory | Purpose |
 |---|---|
+| [`work-orders/`](work-orders/README.md) | Work Orders — the standard mechanism for initiating, assigning, and approving all work |
 | [`docs/`](docs/README.md) | Foundational governance and methodology documents |
 | [`personas/`](personas/README.md) | Consulting personas used across engagements |
 | [`prompts/`](prompts/README.md) | Reusable prompt libraries |
