@@ -4,7 +4,7 @@
 
 It is not an application. It is the internal operating manual, methodology library, and reusable asset base for running world-class AI consulting engagements — repeatable, documented, and built to compound in value over years rather than sprints.
 
-> **Status:** Foundation phase (v1.0). The repository structure, governance, and documentation scaffolding are being established before any methodology, persona, prompt, or case-study content is authored. See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the live dashboard.
+> **Status:** Foundation phase (v1.0). The repository structure, governance, and documentation scaffolding are being established, with methodology, persona, prompt, and case-study content still largely unauthored. See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the live dashboard.
 
 ## Table of Contents
 
@@ -88,7 +88,7 @@ Full milestone breakdowns live in [ROADMAP.md](ROADMAP.md).
 
 ## Current Release
 
-**v1.0 — Foundation** (in progress). This release establishes the repository structure, governance model, and documentation scaffolding described above. No methodology, persona, prompt, or case-study content is authored yet — see [PROJECT_STATUS.md](PROJECT_STATUS.md) for exact completion status.
+**v1.0 — Foundation** (in progress). This release establishes the repository structure, governance model, and documentation scaffolding described above. Methodology, persona, prompt, and most case-study content is not yet authored — see [PROJECT_STATUS.md](PROJECT_STATUS.md) for exact completion status.
 
 ## Contribution Guide
 

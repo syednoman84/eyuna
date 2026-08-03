@@ -6,11 +6,11 @@ This directory holds documented outcomes from real or reference AI consulting en
 
 ## Contents
 
-This directory is currently empty of case-study content — it is scaffolded ahead of Release 5.0 (Customer Support Case Study), per [ROADMAP.md](../ROADMAP.md). When populated, it will contain:
+| Case Study | Status | Description |
+|---|---|---|
+| [`customer-support-email-automation/`](customer-support-email-automation/README.md) | In Progress | Reference case study (Release 5.0) applying ACM to a customer support email automation engagement. |
 
-- A case-study documentation standard
-- The first reference case study (customer support AI engagement), documented end-to-end
-- Lessons-learned notes that feed refinements back into earlier releases
+A case-study documentation standard has not yet been authored — see [ROADMAP.md](../ROADMAP.md) Release 5.0. Until then, new case studies should follow the structure already established in `customer-support-email-automation/`.
 
 ## How This Fits Into Eyuna
 

@@ -75,7 +75,7 @@ Produce standardized engagement and deliverable templates.
 
 ## Release 5.0 — Customer Support Case Study
 
-**Status:** Not Started
+**Status:** In Progress
 
 Document a full, end-to-end reference case study applying the ACM methodology, personas, prompts, and templates to a customer support AI engagement.
 

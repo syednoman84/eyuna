@@ -80,9 +80,11 @@ Delivery Work Orders are organized by engagement using reserved numbering ranges
 | WO-300 – WO-399 | Retail _(Reserved)_             |
 | WO-400 – WO-499 | Financial Services _(Reserved)_ |
 
-The first Delivery Work Order will be:
+## Current Delivery Work Orders
 
-- `WO-101 — Customer Support Discovery`
+| Work Order                                                     | Status   | Description                                                                     |
+| ---------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
+| [`WO-101`](delivery/WO-101-Customer-Support-Discovery.md) | Approved | Discovery engagement for the Customer Support Email Automation case study (Assess phase). |
 
 ---
 
