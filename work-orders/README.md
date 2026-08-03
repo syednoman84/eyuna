@@ -28,6 +28,7 @@ work-orders/
     ├── WO-101-Customer-Support-Discovery.md
     ├── WO-102-Customer-Support-Requirements.md
     ├── WO-103-Customer-Support-Solution-Architecture.md
+    ├── WO-104-Customer-Support-Implementation.md
     └── ...
 ```
 
@@ -88,6 +89,7 @@ Delivery Work Orders are organized by engagement using reserved numbering ranges
 | [`WO-101`](delivery/WO-101-Customer-Support-Discovery.md) | Approved | Discovery engagement for the Customer Support Email Automation case study (Assess phase). |
 | [`WO-102`](delivery/WO-102-Customer-Support-Requirements.md) | Approved | Requirements Package for the Customer Support Email Automation case study (Create phase). |
 | [`WO-103`](delivery/WO-103-Customer-Support-Solution-Architecture.md) | Approved | Solution Architecture Package for the Customer Support Email Automation case study (Create phase). |
+| [`WO-104`](delivery/WO-104-Customer-Support-Implementation.md) | Approved | Implementation Package for the Customer Support Email Automation case study (Modernize phase). |
 
 ---
 

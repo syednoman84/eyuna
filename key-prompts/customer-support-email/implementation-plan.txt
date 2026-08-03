@@ -1,0 +1,62 @@
+We are executing WO-104 as part of the Eyuna consulting framework.
+
+Before producing any output, review and understand the following repository artifacts.
+
+Business Context
+- case-studies/customer-support-email-automation/README.md
+
+Discovery Package
+- case-studies/customer-support-email-automation/discovery/discovery-document.md
+
+Requirements Specification
+- case-studies/customer-support-email-automation/requirements/requirements-specification.md
+
+Solution Architecture
+- case-studies/customer-support-email-automation/architecture/solution-architecture.md
+
+Assigned Persona
+- personas/ai-software-engineer.md
+
+Work Order
+- work-orders/delivery/WO-104-Customer-Support-Implementation.md
+
+You are acting as the AI Software Engineer.
+
+Execute WO-104 by producing ONLY:
+
+case-studies/customer-support-email-automation/implementation/implementation-plan.md
+
+Requirements
+
+Produce an enterprise-grade engineering implementation plan.
+
+The document should describe HOW Engineering will implement the approved architecture—not implement it.
+
+Include:
+
+- Executive Summary
+- Engineering Objectives
+- Repository Strategy
+- Service Decomposition
+- Proposed Repository Structure
+- Development Standards
+- API Strategy
+- Database Strategy
+- Event-Driven Communication Strategy
+- Security Implementation Strategy
+- Testing Strategy
+- CI/CD Strategy
+- Sprint Plan
+- Engineering Backlog
+- Dependency Graph
+- Delivery Roadmap
+- Risks
+- Engineering Handoff
+
+Remain consistent with the approved architecture.
+
+Do not generate production code.
+
+Do not create infrastructure-as-code.
+
+Produce repository-ready Markdown.

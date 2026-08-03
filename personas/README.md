@@ -12,6 +12,7 @@ The standard governing this directory is [WO-002 — Eyuna Persona Standard](../
 |---|---|---|---|
 | [`senior-business-analyst.md`](senior-business-analyst.md) | Business Consulting | Assess | Approved |
 | [`solution-architect.md`](solution-architect.md) | Solution Architecture | Create | Approved |
+| [`ai-software-engineer.md`](ai-software-engineer.md) | Engineering | Modernize | Approved |
 
 Additional internal and client-facing personas will continue to be added here as Release 2.0 (Consulting Personas) progresses, per [ROADMAP.md](../ROADMAP.md).
 

@@ -15,12 +15,13 @@ This is the live dashboard for Eyuna. It reflects what exists today, what is act
 - [WO-101 — Customer Support Discovery](work-orders/delivery/WO-101-Customer-Support-Discovery.md) — `Approved`. First Delivery Work Order; assigns the Senior Business Analyst to lead discovery for the Customer Support Email Automation case study.
 - [WO-102 — Customer Support Requirements](work-orders/delivery/WO-102-Customer-Support-Requirements.md) — `Approved`. Second Delivery Work Order; assigns the Senior Business Analyst to produce the Requirements Specification for the Customer Support Email Automation case study.
 - [WO-103 — Customer Support Solution Architecture](work-orders/delivery/WO-103-Customer-Support-Solution-Architecture.md) — `Approved`. Third Delivery Work Order; assigns the Solution Architect to produce the Architecture Package for the Customer Support Email Automation case study.
+- [WO-104 — Customer Support Implementation](work-orders/delivery/WO-104-Customer-Support-Implementation.md) — `Approved`. Fourth Delivery Work Order; assigns the AI Software Engineer to produce the Implementation Package for the Customer Support Email Automation case study.
 
 ## In Progress
 
 - Repository Initialization — structure, root documentation, directory-level READMEs, and `docs/` placeholders.
 - [WO-002 — Eyuna Persona Standard](work-orders/governance/WO-002-Persona-Standard.md) — `Draft`. The governance standard defining what a persona is, its lifecycle, and its required structure, ahead of Release 2.0.
-- [Customer Support Email Automation](case-studies/customer-support-email-automation/README.md) — `In Progress`. The Release 5.0 reference case study; business scenario and ACM engagement plan drafted. Discovery and Requirements are complete; the Solution Architecture Work Order (WO-103) has been created; architecture, implementation, and deployment deliverables have not yet started.
+- [Customer Support Email Automation](case-studies/customer-support-email-automation/README.md) — `In Progress`. The Release 5.0 reference case study; business scenario and ACM engagement plan drafted. Discovery, Requirements, and Solution Architecture are complete; the Implementation Work Order (WO-104) has been created and Engineering Planning is now the active phase; implementation and deployment deliverables have not yet started.
 
 ## Upcoming
 
