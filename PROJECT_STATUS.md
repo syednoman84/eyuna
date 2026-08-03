@@ -15,6 +15,7 @@ This is the live dashboard for Eyuna. It reflects what exists today, what is act
 ## In Progress
 
 - Repository Initialization — structure, root documentation, directory-level READMEs, and `docs/` placeholders.
+- [WO-002 — Eyuna Persona Standard](work-orders/WO-002-Persona-Standard.md) — `Draft`. The governance standard defining what a persona is, its lifecycle, and its required structure, ahead of Release 2.0.
 
 ## Upcoming
 

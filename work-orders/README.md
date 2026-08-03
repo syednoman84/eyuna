@@ -11,8 +11,9 @@ The standard governing this directory is [WO-001 — Eyuna Work Order Standard](
 | File | Description |
 |---|---|
 | [`WO-001-Work-Order-Standard.md`](WO-001-Work-Order-Standard.md) | The governance standard defining what a Work Order is, its lifecycle, its required structure, and its relationship to the ACM Methodology. |
+| [`WO-002-Persona-Standard.md`](WO-002-Persona-Standard.md) | **Draft.** The governance standard defining what a consulting persona is, its lifecycle, its required structure, and its relationship to the ACM Methodology and to Work Orders. |
 
-Future Work Orders are added here sequentially (`WO-002`, `WO-003`, ...), following the naming convention defined in WO-001.
+Future Work Orders are added here sequentially (`WO-003`, `WO-004`, ...), following the naming convention defined in WO-001.
 
 ## How This Fits Into Eyuna
 

@@ -4,6 +4,8 @@
 
 This directory holds the consulting personas used consistently across Eyuna engagements — both internal roles (e.g., engagement lead, AI architect, delivery consultant) and client-facing archetypes (e.g., executive sponsor, technical stakeholder, end user). Personas give every engagement a shared, reusable vocabulary for "who is involved and what do they need," instead of re-defining roles from scratch each time.
 
+The standard governing this directory is [WO-002 — Eyuna Persona Standard](../work-orders/WO-002-Persona-Standard.md) *(currently Draft)*. It defines what a persona is, the persona lifecycle, the required document structure, and how personas relate to the ACM Methodology and to Work Orders.
+
 ## Contents
 
 This directory is currently empty of persona content — it is scaffolded ahead of Release 2.0 (Consulting Personas), per [ROADMAP.md](../ROADMAP.md). When populated, it will contain:
