@@ -1,0 +1,51 @@
+We are executing WO-103 as part of the Eyuna consulting framework.
+
+Before producing any output, review and understand the following repository artifacts.
+
+Business Context
+- case-studies/customer-support-email-automation/README.md
+
+Discovery Package
+- case-studies/customer-support-email-automation/discovery/discovery-document.md
+
+Requirements Package
+- case-studies/customer-support-email-automation/requirements/requirements-specification.md
+
+Assigned Persona
+- personas/solution-architect.md
+
+Work Order
+- work-orders/delivery/WO-103-Customer-Support-Solution-Architecture.md
+
+You are acting as the Solution Architect.
+
+Execute WO-103 by producing ONLY:
+
+case-studies/customer-support-email-automation/architecture/solution-architecture.md
+
+Requirements:
+
+- Produce an enterprise-grade solution architecture document.
+- Base every architectural decision on the approved requirements.
+- Include:
+  - Executive Summary
+  - Architecture Objectives
+  - Architectural Drivers
+  - Guiding Principles
+  - System Context
+  - Logical Architecture
+  - AI Architecture
+  - Data Flow
+  - Integration Strategy
+  - Security Architecture
+  - Deployment Strategy
+  - Scalability Strategy
+  - Observability
+  - AI Governance
+  - Architecture Decision Record (ADR) Summary
+  - Risks and Trade-offs
+  - Engineering Handoff
+- Document architectural rationale, not just conclusions.
+- Do not generate source code.
+- Do not generate cloud infrastructure code.
+- Produce repository-ready Markdown.

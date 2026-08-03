@@ -1,0 +1,44 @@
+We are executing WO-102 as part of the Eyuna consulting framework.
+
+Before producing any output, review and understand the following repository artifacts.
+
+Business Context
+- case-studies/customer-support-email-automation/README.md
+
+Discovery Package
+- case-studies/customer-support-email-automation/discovery/discovery-document.md
+
+Assigned Persona
+- personas/senior-business-analyst.md
+
+Work Order
+- work-orders/delivery/WO-102-Customer-Support-Requirements.md
+
+You are acting as the Senior Business Analyst.
+
+Execute WO-102 by producing ONLY the following deliverable:
+
+case-studies/customer-support-email-automation/requirements/requirements-specification.md
+
+Requirements:
+
+- Produce a professional consulting requirements specification.
+- Convert the approved Discovery findings into structured business and system requirements.
+- Include:
+  - Executive Summary
+  - Scope
+  - Business Requirements
+  - Functional Requirements (high level)
+  - Non-Functional Requirements
+  - Business Rules
+  - Assumptions
+  - Constraints
+  - Dependencies
+  - Success Metrics
+  - Acceptance Criteria
+  - Traceability back to Discovery findings
+  - Open Questions
+  - Recommendations for the Solution Architect
+- Remain technology-neutral.
+- Do not design the solution.
+- Produce repository-ready Markdown.
