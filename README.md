@@ -20,11 +20,11 @@ It is not an application. It is the internal operating manual, methodology libra
 
 ## Current Release
 
-|                    |                                                                    |
-| ------------------ | ------------------------------------------------------------------ |
-| **Version**          | v1.0.0                                                              |
-| **Status**            | Framework Complete                                                  |
-| **Current Focus**      | Engineering Execution                                               |
+|                   |                       |
+| ----------------- | --------------------- |
+| **Version**       | v1.0.0                |
+| **Status**        | Framework Complete    |
+| **Current Focus** | Engineering Execution |
 
 v1.0.0 completes the first version of the Eyuna Consulting Operating System: an approved Work Order governance mechanism ([WO-001](work-orders/governance/WO-001-Work-Order-Standard.md), [WO-002](work-orders/governance/WO-002-Persona-Standard.md)), three approved reference personas, and a full Assess → Create engagement lifecycle proven end-to-end through the [Customer Support Email Automation](case-studies/customer-support-email-automation/README.md) case study. The `docs/` constitutional layer (Constitution, ACM Methodology narrative, Consulting Principles, Governance model, Glossary) remains an open milestone — see [Known Limitations in CHANGELOG.md](CHANGELOG.md#known-limitations).
 
@@ -105,7 +105,3 @@ Eyuna is intended to grow through disciplined, reviewed contributions rather tha
 - Read [CONTRIBUTING.md](CONTRIBUTING.md) in full.
 - Confirm your addition belongs in an existing directory before proposing a new one.
 - Significant structural or methodological changes should be logged as a decision in [DECISIONS.md](DECISIONS.md).
-
-## License
-
-Eyuna is released under the [MIT License](LICENSE).
