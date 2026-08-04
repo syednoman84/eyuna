@@ -4,19 +4,31 @@
 
 It is not an application. It is the internal operating manual, methodology library, and reusable asset base for running world-class AI consulting engagements — repeatable, documented, and built to compound in value over years rather than sprints.
 
-> **Status:** Foundation phase (v1.0). The repository structure, governance, and documentation scaffolding are being established, with methodology, persona, prompt, and case-study content still largely unauthored. See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the live dashboard.
+> **Status:** v1.0.0 — Framework Complete. The Work Order governance mechanism, three reference personas, and a full Assess → Create engagement lifecycle (Discovery through Solution Architecture, Implementation Plan, and Engineering Design) are approved and proven end-to-end via the Customer Support Email Automation case study. Engineering Execution is the active focus next. See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the live dashboard.
 
 ## Table of Contents
 
+- [Current Release](#current-release)
 - [Project Vision](#project-vision)
 - [Mission](#mission)
 - [Repository Overview](#repository-overview)
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
 - [Roadmap Summary](#roadmap-summary)
-- [Current Release](#current-release)
 - [Contribution Guide](#contribution-guide)
 - [License](#license)
+
+## Current Release
+
+|                    |                                                                    |
+| ------------------ | ------------------------------------------------------------------ |
+| **Version**          | v1.0.0                                                              |
+| **Status**            | Framework Complete                                                  |
+| **Current Focus**      | Engineering Execution                                               |
+
+v1.0.0 completes the first version of the Eyuna Consulting Operating System: an approved Work Order governance mechanism ([WO-001](work-orders/governance/WO-001-Work-Order-Standard.md), [WO-002](work-orders/governance/WO-002-Persona-Standard.md)), three approved reference personas, and a full Assess → Create engagement lifecycle proven end-to-end through the [Customer Support Email Automation](case-studies/customer-support-email-automation/README.md) case study. The `docs/` constitutional layer (Constitution, ACM Methodology narrative, Consulting Principles, Governance model, Glossary) remains an open milestone — see [Known Limitations in CHANGELOG.md](CHANGELOG.md#known-limitations).
+
+See [CHANGELOG.md](CHANGELOG.md) for full release notes and [PROJECT_STATUS.md](PROJECT_STATUS.md) for the live dashboard.
 
 ## Project Vision
 
@@ -85,10 +97,6 @@ Eyuna is delivered in numbered releases, each adding one major capability layer:
 | 6.0     | Industry Playbooks          |
 
 Full milestone breakdowns live in [ROADMAP.md](ROADMAP.md).
-
-## Current Release
-
-**v1.0 — Foundation** (in progress). This release establishes the repository structure, governance model, and documentation scaffolding described above. Methodology, persona, prompt, and most case-study content is not yet authored — see [PROJECT_STATUS.md](PROJECT_STATUS.md) for exact completion status.
 
 ## Contribution Guide
 

@@ -2,11 +2,11 @@
 
 | Property         | Value                                                                        |
 | ---------------- | ----------------------------------------------------------------------------- |
-| Status           | In Progress                                                                    |
+| Status           | In Progress — Planning Complete, Engineering Execution Active                 |
 | Industry         | Customer Support / SaaS                                                       |
 | Engagement Type  | AI Consulting Case Study                                                       |
 | Methodology      | [Eyuna ACM](../../docs/acm-methodology.md) – Assess • Create • Modernize       |
-| Work Order       | [WO-101 — Customer Support Discovery](../../work-orders/delivery/WO-101-Customer-Support-Discovery.md) |
+| Work Orders      | [WO-101](../../work-orders/delivery/WO-101-Customer-Support-Discovery.md) · [WO-102](../../work-orders/delivery/WO-102-Customer-Support-Requirements.md) · [WO-103](../../work-orders/delivery/WO-103-Customer-Support-Solution-Architecture.md) · [WO-104](../../work-orders/delivery/WO-104-Customer-Support-Implementation.md) |
 
 ---
 

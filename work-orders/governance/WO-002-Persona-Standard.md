@@ -3,12 +3,12 @@
 | Property            | Value                     |
 | ------------------- | ------------------------- |
 | Version             | 1.0                       |
-| Status              | Draft                     |
+| Status              | Approved                  |
 | Category            | Governance                |
 | Owner               | Chief Methodology Officer |
 | Repository Location | `work-orders/`            |
 | Applies To          | All Eyuna Personas        |
-| Last Updated        | 2026-08-02                |
+| Last Updated        | 2026-08-04                |
 
 ---
 

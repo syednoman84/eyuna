@@ -11,6 +11,7 @@ Status legend: `Not Started` · `In Progress` · `Complete`
 - [Release 3.0 — Prompt Engine](#release-30--prompt-engine)
 - [Release 4.0 — Templates](#release-40--templates)
 - [Release 5.0 — Customer Support Case Study](#release-50--customer-support-case-study)
+- [Engineering Execution](#engineering-execution)
 - [Release 6.0 — Industry Playbooks](#release-60--industry-playbooks)
 
 ---
@@ -35,16 +36,16 @@ Establish the repository itself: structure, governance, and documentation scaffo
 
 ## Release 2.0 — Consulting Personas
 
-**Status:** Not Started
+**Status:** In Progress
 
 Define the reusable consulting personas (client-facing and internal) used consistently across engagements.
 
 **Milestones**
 
-- [ ] Define persona taxonomy and template
-- [ ] Author core internal personas (e.g., engagement lead, AI architect, delivery consultant)
+- [x] Define persona taxonomy and template — defined in [WO-002 — Persona Standard](work-orders/governance/WO-002-Persona-Standard.md) (persona categories and the standard 15-section document structure)
+- [x] Author core internal personas (e.g., engagement lead, AI architect, delivery consultant) — three authored: [Senior Business Analyst](personas/senior-business-analyst.md), [Solution Architect](personas/solution-architect.md), [AI Software Engineer](personas/ai-software-engineer.md)
 - [ ] Author core client-facing personas (e.g., sponsor, technical stakeholder, end user)
-- [ ] Document persona usage guidance in `personas/README.md`
+- [x] Document persona usage guidance in `personas/README.md`
 
 ## Release 3.0 — Prompt Engine
 
@@ -82,9 +83,26 @@ Document a full, end-to-end reference case study applying the ACM methodology, p
 **Milestones**
 
 - [ ] Define case study documentation standard
-- [ ] Author the customer support case study end-to-end
+- [ ] Author the customer support case study end-to-end — Discovery, Requirements, Solution Architecture, Implementation Plan, and Engineering Design are complete; production implementation, deployment, and content deliverables continue under **Engineering Execution** below
 - [ ] Cross-link case study to the methodology, personas, prompts, and templates it uses
 - [ ] Capture lessons learned and refinements back into earlier releases
+
+---
+
+## Engineering Execution
+
+**Status:** Not Started
+
+Turn the Customer Support Email Automation case study's approved [Implementation Plan](case-studies/customer-support-email-automation/implementation/implementation-plan.md) and [Engineering Design](case-studies/customer-support-email-automation/implementation/engineering-design.md) into running software. This is the active next phase following v1.0.0 — planning is complete, execution has not started.
+
+**Milestones**
+
+- [ ] Repository scaffolding — monorepo structure, module layout, and CI pipeline skeleton per the Implementation Plan's [Repository Strategy](case-studies/customer-support-email-automation/implementation/implementation-plan.md#3-repository-strategy)
+- [ ] Shared libraries — `ai-capability-interface`, `pii-minimization`, `business-rules-client`, `event-contracts`
+- [ ] Sprint 1 — foundation libraries, `business-rules-store`, `audit-logging-service`, and shadow-mode `classification-service`
+- [ ] Sprint 2 — shadow-mode `priority-service`; begin capturing baseline metrics
+- [ ] Sprints 3–8 — human-approved routing and escalation, then AI-assisted drafting, per the [Sprint Plan](case-studies/customer-support-email-automation/implementation/implementation-plan.md#13-sprint-plan)
+- [ ] Production implementation — full Implementation Package delivered and promoted beyond shadow mode
 
 ## Release 6.0 — Industry Playbooks
 
